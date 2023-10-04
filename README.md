@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 📫 Let's connect: [Linkedin](https://www.linkedin.com/in/jheniffergonsalves/)
 
+Happy coding and data exploring! 
+<!--
 👋 Welcome to my GitHub profile! I'm Jheni Gonsalves, a passionate science enthusiast with a Master's degree in Physics. I've always been fascinated by the intricacies of the natural world, specially about the brain, and the power of data to uncover its hidden patterns.
 
 🧪 During my academic journey, I delved deep into the world of theoretical and experimental physics, honing my analytical and problem-solving skills. Today, I'm leveraging that knowledge in the realm of data science, where I explore, analyze, and visualize data to extract meaningful insights.
@@ -30,3 +32,4 @@ Here are some ideas to get you started:
 📫 Let's connect! Feel free to reach out via email at jhenigonsalves@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/jheniffergonsalves/), where we can share insights, collaborate on projects, and foster our mutual love for science and data.
 
 Happy coding and data exploring! 
+-->
