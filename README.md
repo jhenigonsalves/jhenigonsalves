@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 🚀 Join me on this exciting journey as I continue to expand my skillset. Feel free to explore my repositories, collaborate on projects, or reach out for discussions related to science, data, or anything in between.
 
-📫 Let's connect! Feel free to reach out via email at jhenigonsalves@gmail.com or connect with me on [Linkedin] (https://www.linkedin.com/in/jheniffergonsalves/), where we can share insights, collaborate on projects, and foster our mutual love for science and data.
+📫 Let's connect! Feel free to reach out via email at jhenigonsalves@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/jheniffergonsalves/), where we can share insights, collaborate on projects, and foster our mutual love for science and data.
 
 Happy coding and data exploring! 
